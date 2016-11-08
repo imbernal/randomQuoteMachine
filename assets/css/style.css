@@ -1,0 +1,33 @@
+.content-page {
+  background-color: #fff;
+  text-align: center;
+  height: 230px;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 17%;
+  border-radius: 8.2px;
+}
+.content-page #header {
+  padding-top: 5%;
+}
+.content-page #header p {
+  font-size: 20px;
+  font-style: oblique;
+}
+.content-page #header .author {
+  padding-right: 5%;
+}
+.content-page .footer {
+  margin-top: 8%;
+}
+.content-page .footer div {
+  display: inline-block;
+}
+.content-page .footer .twitter {
+  float: left;
+  margin-left: 8%;
+}
+.content-page .footer .newQuote {
+  float: right;
+  margin-right: 8%;
+}
